@@ -15,4 +15,4 @@ author:
   image: ks.png
 ---
 
-Goodbye
+Goodbyes
