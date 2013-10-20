@@ -2159,7 +2159,8 @@ a {
   .site-footer nav {
     display: inline-block; }
   .site-footer .social {
-    float: right; }
+    float: right;
+    margin-top: -15px; }
     .site-footer .social a {
       color: #000;
       border: 0;
