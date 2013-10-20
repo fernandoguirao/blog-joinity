@@ -6,8 +6,8 @@
     <atom:link href="http://blog.joinity.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Sun, 20 Oct 2013 21:20:35 +0000</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2013 21:20:35 +0000</lastBuildDate>
+    <pubDate>Sun, 20 Oct 2013 22:03:24 +0000</pubDate>
+    <lastBuildDate>Sun, 20 Oct 2013 22:03:24 +0000</lastBuildDate>
 
     
     
@@ -17,9 +17,7 @@
       <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://blog.joinity.com/2013/10/09/another-post</guid>
-      <description>
-&lt;p&gt;Hello&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Hello&lt;/p&gt;</description>
     </item>
     
     
@@ -30,9 +28,7 @@
       <pubDate>Tue, 08 Oct 2013 00:00:00 +0000</pubDate>
       <author></author>
       <guid>http://blog.joinity.com/2013/10/08/welcome-to-joinity</guid>
-      <description>
-&lt;p&gt;Goodbyes&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Goodbyes&lt;/p&gt;</description>
     </item>
     
     
