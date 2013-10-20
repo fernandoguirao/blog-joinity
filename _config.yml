@@ -43,7 +43,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://fernandoguirao.github.io
+url:         http://blog.joinity.com
 source:      .
 destination: ./_site
 plugins:     ./_plugins
@@ -73,7 +73,7 @@ excerpt_separator: "<!-- more -->"
 safe:        false
 host:        0.0.0.0
 port:        4000
-baseurl:     /blog-joinity
+baseurl:     /
 lsi:         false
 
 maruku:
@@ -114,7 +114,7 @@ redcloth:
 assets:
 
   dirname: assets
-  baseurl: blog-joinity/assets/
+  baseurl: /assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
