@@ -67,6 +67,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-assets
+  liquid
   maruku
   rake
   sass
