@@ -114,7 +114,7 @@ redcloth:
 assets:
 
   dirname: assets
-  baseurl: /assets/
+  baseurl: blog-joinity/assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
